@@ -1,1 +1,1 @@
-# main
+Rangkuman Version Control System (Git and Github)
