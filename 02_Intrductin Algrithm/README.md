@@ -8,4 +8,4 @@ Terdapat tiga jenis algoritma dasar yaitu sequential, branching, dan looping.
 4.	Pseudocode
 Pseudocode adalah cara untuk merancang atau menjelaskan algoritma menggunakan Bahasa yang mirip dengan Bahasa pemrograman, tetapi tidak terikat pada sintaks Bahasa pemrograman tertentu.
 5.	Flowchart
-Flowchart adalah suatu bagan dengan symbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail. Ada beberapa symbol flowchart diantaranya yaitu symbol mulai / selesai (start / end), symbol proses, simbul input / output, dan symbol perkondisian.vhgjhuh
+Flowchart adalah suatu bagan dengan symbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail. Ada beberapa symbol flowchart diantaranya yaitu symbol mulai / selesai (start / end), symbol proses, simbul input / output, dan symbol perkondisian.
