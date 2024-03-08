@@ -5,7 +5,6 @@ phi = 3.14
 print ("nilai phi : ", phi)
 
 r = int (input ("Masukkan nilai jari-jari bola : "))
-
 V = 4/3 * phi * r * r * r
 
 print ("nilai r : ", r)
