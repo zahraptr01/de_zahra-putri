@@ -1,6 +1,10 @@
 print ("Menentukan Prioritas Proyek")
 
-def hitung_skor_budget(budget):
+budget = int (input ("Masukkan budget proyek : "))
+waktu = int (input ("Masukkan waktu pengerjaan proyek : "))
+kesulitan = int (input ("Masukkan tingkat kesulitan proyek : "))
+
+def skor_budget(budget):
     if budget >= 0 and budget <= 50:
         return 4
     elif budget >= 51 and budget <= 80:
@@ -10,7 +14,7 @@ def hitung_skor_budget(budget):
     else:
         return 1
 
-def hitung_skor_waktu(waktu):
+def skor_waktu(waktu):
     if waktu >= 0 and waktu <= 20:
         return 10
     elif waktu >= 21 and waktu <= 30:
@@ -20,7 +24,7 @@ def hitung_skor_waktu(waktu):
     else:
         return 1
 
-def hitung_skor_kesulitan(kesulitan):
+def skor_kesulitan(kesulitan):
     if kesulitan >= 0 and kesulitan <= 3:
         return 10
     elif kesulitan >= 4 and kesulitan <= 6:
@@ -30,17 +34,13 @@ def hitung_skor_kesulitan(kesulitan):
     else:
         return 0
 
-def tentukan_prioritas(budget, waktu, kesulitan):
-    skor_budget = hitung_skor_budget(budget)
-    skor_waktu = hitung_skor_waktu(waktu)
-    skor_kesulitan = hitung_skor_kesulitan(kesulitan)
+def prioritas(budget, waktu, kesulitan):
+    budget_proyek = skor_budget(budget)
+    waktu_proyek = skor_waktu(waktu)
+    kesulitan_proyek = skor_kesulitan(kesulitan)
     
-    skor_total = skor_budget + skor_waktu + skor_kesulitan
+    skor_total = budget_proyek + waktu_proyek + kesulitan_proyek
     
-budget = int (input ("Masukkan budget proyek : "))
-waktu = int (input ("Masukkan waktu pengerjaan proyek : "))
-kesulitan = int (input ("Masukkan tingkat kesulitan proyek : "))
-print ("Prioritas Proyek : ", skor_total)
     if skor_total >= 24 and skor_total <= 17:
         return "High"
     elif skor_total >= 16 and skor_total <= 10:
@@ -49,3 +49,6 @@ print ("Prioritas Proyek : ", skor_total)
         return "Low"
     else:
         return "Impossible"
+
+prioritas_proyek = prioritas(budget, waktu, kesulitan)
+print ("Prioritas Proyek : ", prioritas_proyek)
