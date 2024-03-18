@@ -1,0 +1,91 @@
+{
+	"info": {
+		"_postman_id": "4c399410-dcc0-48cb-b0ab-826c8af84c07",
+		"name": "alterra 9",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "33689675"
+	},
+	"item": [
+		{
+			"name": "Get Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://jsonplaceholder.typicode.com/posts"
+			},
+			"response": []
+		},
+		{
+			"name": "id 3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://jsonplaceholder.typicode.com/posts/3"
+			},
+			"response": []
+		},
+		{
+			"name": "Post Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userId\": 12,\r\n    \"id\": 200,\r\n    \"title\": \"POSTINGAN BARU\",\r\n    \"body\": \"INI ADALAH POSTINGAN BARU\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://jsonplaceholder.typicode.com/posts"
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Request",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "https://jsonplaceholder.typicode.com/posts/1"
+			},
+			"response": []
+		},
+		{
+			"name": "Put Request",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userId\": 1,\r\n    \"id\": 1,\r\n    \"title\": \"POSTINGAN BARU\",\r\n    \"body\": \"INI ADALAH POSTINGAN BARU\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://jsonplaceholder.typicode.com/posts/1"
+			},
+			"response": []
+		},
+		{
+			"name": "Patch Request",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userId\": 1,\r\n    \"id\": 1,\r\n    \"title\": \"MODIFIKASI POSTINGAN\",\r\n    \"body\": \"INI ADALAH MODIFIKASI POSTINGAN\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://jsonplaceholder.typicode.com/posts/1"
+			},
+			"response": []
+		}
+	]
+}
