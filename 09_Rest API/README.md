@@ -4,4 +4,8 @@ Rangkuman Materi Rest API
 3.	Representational State Transfer (REST) adalah sebuah guidline dan rekomendasi untuk membentuk API dengan pemodelan ‘real world object’
 4.	Rest berbasis protokol HTTP, HTTP method yang sering digunakan ada 4 yaitu get (membaca data), put (membuat/mengganti data), post (membuat data baru), dan delete (menghapus data yang ada)
 5.	Komponen dari REST API ada method, url (base url + path), header, dan body
+<<<<<<< HEAD
 6.	JavaScript Object Notation (JSON) merupakan format data yang sering digunakan saat menggunakan REST API untuk menyimpan, membaca, serta menukar informasi dari web server sehingga dapat dibaca oleh para pengguna
+=======
+6.	JavaScript Object Notation (JSON) merupakan format data yang sering digunakan saat menggunakan REST API untuk menyimpan, membaca, serta menukar informasi dari web server sehingga dapat dibaca oleh para pengguna
+>>>>>>> developer

@@ -1,0 +1,23 @@
+git --version
+git config --global --list
+git config --global user.name ""
+git config --global user.email ""
+
+git remote add "my_project" ""
+git remote -v
+git init
+
+git branch --list
+git branch "feature"
+git branch -d feature
+git branch -add
+git checkout -b new-feature master
+
+git add "New Folder"
+git commit -m "upload folder"
+git push my_project baru
+
+git add "vcs.txt"
+git log --oneline
+git checkout 2073047
+git push --set-upstream my_project 2073047
