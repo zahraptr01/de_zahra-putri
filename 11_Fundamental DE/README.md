@@ -1,0 +1,15 @@
+Rangkuman Materi Fundamental DE Part 2
+1.	Data terstruktur adalah data yang memiliki model, format dan skema yang kemudian disimpan dalam database relational (RDBMS). Ada sebanyak 20% data terstukrtur di sebuah perusahaan.
+2.	Data tidak terstruktur adalah data yang memiliki struktur internal namun tidak memiliki struktur model, format dan skema contohnya dokumen, pdf, gambar, dan video. Data tidak terstruktur lebih banyak daripada data terstruktur yang terdiri dari 80% total data yang ada.
+3.	Data terstuktur disimpan dalam database relational dimana kita dapat create table, select table, update data, dan delete data. Data tidak terstruktur umumnya disimpan dalam datalake atau file storage.
+4.	Data terstruktur dapat dianalisis sedangkan data tidak terstruktur cukup sulit untuk dilakukan analisis.
+5.	Data semi terstruktur memiliki sifat seperti data terstruktur dan bisa dianalisis, namun karena memiliki sifat seperti data tidak terstruktur juga maka data bisa disimpan dalam datalake. Contoh data semi terstruktur adalah metda data yang dpaat dilakukan analisis data.
+6.	Relational database atau basis data relasional merupakan sistem penyimpanan data yang mengatur data dalam bentuk tabel dimana setiap tabel akan memiliki kolom dan baris. Setiap baris akan mewaliki satu data atau entry. Setiap kolom akan mewakili satu atribut dari entry tersebut. 
+7.	Relationship antar tabel akan diidentifikasi berdasarkan kunci tertentu (primary key atau foreign key)
+8.	Database Normalization atau normalisasi data merupakan prinsip desain database untuk mengatur data dengan cara yang terorganisis dan konsisten. Normalisasi membantu untuk menghilangkan karakteristik yang tidak diinginkan baik dengan insertion, deletion, dan updating. 
+9.	NoSQL database mendukung data semi terstruktur dan memiliki skema yang fleksibel untuk membangun sebuah aplikasi modern. NoSQL identik dengan sistem terdistribusi dimana beberapa mesin dapat bekerja Bersama melalui clusters. Beberapa jenis NoSQL ada dokumen, graph, key-value, dan wide-column.
+10.	RDBMS cocok untuk kasus penggunaan OLTP (Online Transaction Processing) yang digunakan untuk data dimana banyak user dapat melakukan banyak transaksi yang berhubungan dengan inserting, updating, dan deleting data. 
+11.	Data Warehouse cocok untuk memelihara kasus OLAP (Online Analytical Processing) yang bertujuan untuk menjawab atau menyelesaikan multi-dimensional analytical queries.
+12.	Data lake adalah repositori terpusat yang dirancang untuk menyimpan, memproses, dan mengamankan jumlah data yang semi terstruktu dan data tidak terstruktur.
+13.	Data warehouse adalah sebuah data yang digunakan untuk analisis pelaporan data struktur dan data semi terstruktur dari multiple sources.
+14.	Data mart merupakan subset dari data warehouse yang berfokus pada area bisnis tertentu, berfokus pada departemen, atau berfokus pada subjek tertentu. Dnegan adanya data mart memungkinkan akses cepat ke wawasan bisnis tanpa harus mencari semua data yang ada di data warehouse. 
