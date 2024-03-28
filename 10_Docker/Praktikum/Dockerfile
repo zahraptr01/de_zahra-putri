@@ -1,7 +1,7 @@
 FROM python:latest
 
-COPY word_count.py /app/word_count.py
+COPY word.py /app/word.py
 
 WORKDIR /app
 
-CMD ["python", "word_count"]
+CMD ["python", "word.py"]
