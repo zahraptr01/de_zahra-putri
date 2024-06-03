@@ -1,0 +1,71 @@
+,transaction_id,customer_name,transaction_amount,phone_number,transaction_type,transaction_status
+0,1,John Thor,Rp 54000,+6281234564030,paket data,success
+1,2,Jane Smith,Rp 25000,+6281234567891,pulsa,success
+3,4,Emily Davis,Rp 32000,+6281234567893,paket data,success
+5,6,Susan Anderson,Rp 61000,+6281234567895,voucher game,success
+6,7,Robert Clark,Rp 29000,+6281234567896,pulsa,success
+9,10,Elizabeth White,Rp 54000,+6281234567899,pulsa,success
+10,11,James Taylor,Rp 25000,+6281234567810,voucher game,success
+13,14,Linda Martinez,Rp 45000,+6281234567813,paket data,success
+14,15,Thomas Harris,Rp 61000,+6281234567814,pulsa,success
+15,16,Barbara Hall,Rp 29000,+6281234567815,voucher game,success
+18,19,Charles Walker,Rp 54000,+6281234567818,pulsa,success
+19,20,Karen Turner,Rp 25000,+6281234567819,ewallet,success
+21,22,Margaret Scott,Rp 32000,+6281234567821,paket data,success
+22,23,Edward Robinson,Rp 45000,+6281234567822,pulsa,success
+23,24,Jennifer Moore,Rp 61000,+6281234567823,voucher game,success
+24,25,Richard Lopez,Rp 29000,+6281234567824,pulsa,success
+26,27,Joseph Hall,Rp 37000,+6281234567826,paket data,success
+27,28,Patricia Thompson,Rp 54000,+6281234567827,ewallet,success
+30,31,David Clark,Rp 32000,+6281234567830,voucher game,success
+31,32,Nancy Martin,Rp 45000,+6281234567831,ewallet,success
+32,33,James White,Rp 61000,+6281234567832,pulsa,success
+34,35,Michael Wilson,Rp 48000,+6281234567834,paket data,success
+36,37,John Jackson,Rp 54000,+6281234567836,voucher game,success
+37,38,Donna Thomas,Rp 25000,+6281234567837,ewallet,success
+38,39,William King,Rp 75000,+6281234567838,pulsa,success
+41,42,Carol Davis,Rp 61000,+6281234567841,voucher game,success
+42,43,Christopher Lee,Rp 29000,+6281234567842,pulsa,success
+45,46,Sharon Martinez,Rp 54000,+6281234567845,pulsa,success
+46,47,Jose Wright,Rp 25000,+6281234567846,voucher game,success
+49,50,Donna Clark,Rp 45000,+6281234567849,ewallet,success
+50,51,Charles Thompson,Rp 61000,+6281234567850,voucher game,success
+53,54,Helen Rodriguez,Rp 37000,+6281234567853,pulsa,success
+54,55,Thomas Wright,Rp 54000,+6281234567854,ewallet,success
+55,56,Shirley Hall,Rp 25000,+6281234567855,pulsa,success
+57,58,Karen Wilson,Rp 32000,+6281234567857,pulsa,success
+58,59,Joseph Thomas,Rp 45000,+6281234567858,voucher game,success
+62,63,William Lopez,Rp 37000,+6281234567862,paket data,success
+63,64,Jennifer Young,Rp 54000,+6281234567863,paket data,success
+64,65,James Harris,Rp 25000,+6281234567864,voucher game,success
+67,68,Susan Thomas,Rp 45000,+6281234567867,ewallet,success
+68,69,Robert Robinson,Rp 61000,+6281234567868,ewallet,success
+71,72,Susan Turner,Rp 37000,+6281234567871,voucher game,success
+72,73,Michael Johnson,Rp 54000,+6281234567872,pulsa,success
+74,75,David Anderson,Rp 75000,+6281234567874,paket data,success
+75,76,Donna Davis,Rp 32000,+6281234567875,pulsa,success
+76,77,Joseph Jackson,Rp 45000,+6281234567876,voucher game,success
+79,80,Elizabeth Anderson,Rp 48000,+6281234567879,paket data,success
+80,81,Michael Turner,Rp 37000,+6281234567880,paket data,success
+81,82,Linda Taylor,Rp 54000,+6281234567881,voucher game,success
+83,84,Mary Jackson,Rp 75000,+6281234567883,pulsa,success
+84,85,Robert Davis,Rp 32000,+6281234567884,ewallet,success
+88,89,Michael Harris,Rp 48000,+6281234567888,voucher game,success
+89,90,Sharon Young,Rp 37000,+6281234567889,pulsa,success
+92,93,Michael Thomas,Rp 75000,+6281234567892,paket data,success
+93,94,Patricia Johnson,Rp 32000,+6281234567893,pulsa,success
+94,95,William Harris,Rp 45000,+6281234567894,voucher game,success
+97,98,Elizabeth Lewis,Rp 48000,+6281234567897,paket data,success
+98,99,James Davis,Rp 37000,+6281234567898,pulsa,success
+99,100,Linda Wilson,Rp 54000,+6281234567899,voucher game,success
+101,102,Patricia Davis,Rp 75000,+6281234567811,ewallet,success
+102,103,Charles Jackson,Rp 32000,+6281234567812,paket data,success
+104,105,Thomas Rodriguez,Rp 61000,+6281234567814,voucher game,success
+108,109,Michael Martin,Rp 54000,+6281234567818,paket data,success
+109,110,Patricia Harris,Rp 25000,+6281234567819,paket data,success
+110,111,William Martinez,Rp 75000,+6281234567820,voucher game,success
+113,114,Sharon Anderson,Rp 61000,+6281234567823,pulsa,success
+114,115,David Davis,Rp 29000,+6281234567824,ewallet,success
+115,116,Mary Hall,Rp 48000,+6281234567825,paket data,success
+117,118,Elizabeth Turner,Rp 54000,+6281234567827,pulsa,success
+118,119,Robert Smith,Rp 25000,+6281234567828,voucher game,success
