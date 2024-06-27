@@ -1,0 +1,1 @@
+payment_notifications_id,created_at,updated_at,deleted_at,order_id,transaction_time,transaction_status,transaction_id,signature_key,payment_type,merchant_id,gross_amount,fraud_status,currency,settlement_time

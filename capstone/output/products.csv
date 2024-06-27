@@ -1,0 +1,51 @@
+products_id,created_at,updated_at,deleted_at,name,description,price,coin,stock
+005c310b-015a-4075-b3b5-575b1feb14d6,2024-06-12 03:21:16.025,2024-06-12 03:21:16.025,,Termostat Pintar,Termostat yang dapat diprogram yang menghemat energi dan uang.,1500000.0,50,500
+08989b73-113e-4161-8047-9642db33fea3,2024-06-12 03:20:19.677,2024-06-12 03:20:19.677,,Lampu Hemat Energi,Bola lampu LED yang menghemat energi dan tahan lama.,58000.0,20,500
+0d4dc83a-6a0c-4d38-8ae0-8a0eba8c03dc,2024-06-12 03:21:43.110,2024-06-12 03:21:43.110,,Kaus Kaki Katun Organik,"Kaus kaki yang terbuat dari 100% katun organik bersertifikat GOTS,  mengurangi frekuensi penggantian.",40000.0,30,500
+0e1c5843-a637-4a92-bfa0-7c7342f51846,2024-06-12 03:20:28.684,2024-06-12 03:20:28.684,,Kertas Daur Ulang,Kertas yang terbuat dari 100% bahan daur ulang.,12000.0,5,500
+0e65c6d4-15ab-435f-8b63-364df43fd70f,2024-06-12 03:20:55.718,2024-06-12 03:20:55.718,,Tisu Pembersih Biodegradable,Tisu pembersih yang terbuat dari bahan yang dapat terurai.,18000.0,5,500
+23cf052f-26ce-4f99-b61c-6b1cba4e630e,2024-06-12 03:20:42.200,2024-06-12 03:20:42.200,,Matras Yoga Ramah Lingkungan,Matras yoga yang terbuat dari bahan ramah lingkungan dan tidak beracun.,72000.0,14,500
+2c0819d5-5c18-4954-b99a-f796e655f8f2,2024-06-12 03:21:02.492,2024-06-12 03:21:02.492,,Deterjen Cucian Ramah Lingkungan,Deterjen cucian yang terbuat dari bahan alami.,30000.0,10,500
+2dd4ca9b-d2e8-40c9-8a56-964c9db60106,2024-06-12 03:21:00.223,2024-06-12 03:21:00.223,,Handuk Katun Organik,Handuk lembut yang terbuat dari katun organik.,25000.0,8,500
+30b3c9d3-3304-4da4-8cda-01052e385eb5,2024-06-12 03:20:48.959,2024-06-12 03:20:48.959,,Alat Makan Kompos,Alat makan sekali pakai yang dapat terkompos.,20000.0,8,500
+4895d8dd-0231-44dc-a3a5-a7ab395d1094,2024-06-12 03:21:13.773,2024-06-12 03:21:13.773,,Masker Wajah Katun Organik,"Masker wajah yang terbuat dari 100% katun organik, lembut, bisa bernapas, dan nyaman untuk penggunaan sehari-hari. Masker ini dirancang untuk dapat digunakan kembali dan dicuci, mengurangi kebutuhan akan masker sekali pakai.",30000.0,20,500
+4d1d4263-491f-4eb9-a9b3-e61c5ba812e5,2024-06-12 03:20:57.970,2024-06-12 03:20:57.970,,Tas Sandwich yang Dapat Digunakan Kembali,Tas sandwich yang terbuat dari bahan yang tahan lama dan bisa dicuci.,12000.0,6,500
+4d844f6d-a1e1-44d4-8627-29ee6d06ec44,2024-06-12 03:21:04.749,2024-06-12 03:21:04.749,,Vas Kaca Daur Ulang,Vas yang terbuat dari kaca daur ulang.,20000.0,12,500
+4f164404-0792-470c-89ee-3e48fd53e50c,2024-06-12 03:20:53.468,2024-06-12 03:20:53.468,,Ransel dengan Jejak Karbon Rendah,"Ransel dengan jejak karbon rendah,",800000.0,25,500
+591c7cbe-3820-4ce1-991c-3294169f815b,2024-06-12 03:21:25.064,2024-06-12 03:21:25.064,,Sabun Berbasis Tumbuhan,"Sabun yang dibuat dari bahan alami, bebas dari bahan kimia sintetis dan pewangi buatan. Lembut di kulit, cocok untuk semua jenis kulit, termasuk kulit sensitif.",180000.0,35,500
+5d502c20-9e83-4e84-9d93-db901a3508b5,2024-06-12 03:20:15.166,2024-06-12 03:20:15.166,,Kopi Perdagangan Adil,Biji kopi organik dan perdagangan adil.,35000.0,12,500
+627efc9c-a3bf-4850-b4fa-0eac1768d042,2024-06-12 03:21:34.093,2024-06-12 03:21:34.093,,Cat Ramah Lingkungan,"Cat tidak beracun, rendah VOC yang terbuat dari bahan berkelanjutan.",500000.0,50,500
+644c996a-5407-416f-86a3-b8fa9233886f,2024-06-12 03:20:46.706,2024-06-12 03:20:46.706,2024-06-11 20:21:35.850,Lampu Taman Tenaga Surya,Lampu taman yang bertenaga surya.,230000.0,20,500
+66bcdf40-2544-4bec-b9be-0283a030e709,2024-06-12 03:21:45.367,2024-06-12 03:21:45.367,,Sweter Katun Organik,Pakaian lembut dan berkelanjutan yang terbuat dari katun organik bersertifikat GOTS.,650000.0,55,500
+719d7f9e-7ae5-4e8a-97fe-eda6dcf8a756,2024-06-12 03:21:36.346,2024-06-12 03:21:36.346,,Kotak Makan Bambu,Kotak makan yang tahan lama dan dapat terurai yang terbuat dari bambu yang dapat diperbaharui.,220000.0,35,500
+7a371522-d22e-431b-bf25-149e80809c27,2024-06-12 03:21:31.825,2024-06-12 03:21:31.825,,Organizer Meja Bambu,Solusi organisasi meja yang berkelanjutan dan serbaguna.,350000.0,32,500
+7be7821a-c433-4597-bf94-a4e464cbc37e,2024-06-12 03:21:11.520,2024-06-12 03:21:11.520,,Bantalan Penghapus Riasan yang Dapat Digunakan Kembali,"Bantalan yang terbuat dari katun organik, dapat digunakan kembali dan bisa dicuci.",15000.0,6,500
+7beeb22b-1928-4f72-8e9e-55525d792d89,2024-06-12 03:21:49.879,2024-06-12 03:21:49.879,,Pot Bunga dari Ban Daur Ulang,Beri kehidupan baru pada ban bekas dengan pot bunga unik ini.,200000.0,30,500
+7c45085a-2466-4f5e-9ccd-bdd139751dac,2024-06-12 03:20:03.902,2024-06-12 03:20:03.902,,Sikat Gigi Biodegradable,Sikat gigi yang terbuat dari bambu dengan bulu sikat yang dapat terurai.,10000.0,7,500
+7dc84308-0330-41f1-8072-ca635e5055c8,2024-06-12 03:20:08.408,2024-06-12 03:20:08.408,,Botol Air yang Dapat Digunakan Kembali,Botol air tahan lama yang terbuat dari stainless steel.,35000.0,10,500
+7dcf0f20-d1c6-4d8a-8cf5-de60f5c420be,2024-06-12 03:19:59.398,2024-06-12 03:19:59.398,,Sedotan yang Dapat Digunakan Kembali,Satu set sedotan stainless steel dengan sikat pembersih.,15000.0,5,500
+7e7a386a-c8c9-430c-b7d6-2e81f1bad678,2024-06-12 03:21:22.804,2024-06-12 03:21:22.804,,Kaos Katun Organik Perdagangan Adil,Kaos katun organik yang bersumber secara etis dan berkelanjutan.,400000.0,60,500
+7ec87ad7-5380-438e-996d-dea7538d3b64,2024-06-12 03:20:51.214,2024-06-12 03:20:51.214,,Dompet Daur Ulang,Dompet yang terbuat dari bahan daur ulang,115000.0,10,500
+7fbf0a60-57bf-419f-900a-a993d3168cec,2024-06-12 03:20:01.651,2024-06-12 03:20:01.651,,Tas Katun Organik,Tas ramah lingkungan yang terbuat dari 100% katun organik.,45000.0,10,500
+809db141-0071-478e-bf49-9666968c82b5,2024-06-12 03:20:12.914,2024-06-12 03:20:12.914,,Set Alat Makan Bambu,Satu set alat makan yang dapat digunakan kembali yang terbuat dari bambu.,20000.0,6,500
+868790b7-4439-49c4-b960-d48bde0fed0b,2024-06-12 03:21:40.854,2024-06-12 03:21:40.854,,Lampu Teras Tenaga Surya,Manfaatkan energi terbarukan untuk menerangi ruang luar Anda.,550000.0,60,500
+8b99ccfa-8517-45bc-b7c5-fd4fd5a56b29,2024-06-12 03:21:38.602,2024-06-12 03:21:38.602,,Sapu Plastik Daur Ulang,Sapu kokoh yang terbuat dari 100% plastik daur ulang untuk pembersihan nol limbah.,170000.0,25,500
+9376eb2d-b9b6-4674-b949-8e3bf42616f5,2024-06-12 03:20:35.441,2024-06-12 03:20:35.441,,Cangkir Kopi yang Dapat Digunakan Kembali,"Cangkir kopi yang dapat digunakan kembali, terbuat dari bahan ramah lingkungan.",20000.0,12,500
+9d1a9780-55e1-43c0-ba09-9e0b40e7cb81,2024-06-12 03:20:33.190,2024-06-12 03:20:33.190,,Perawatan Kulit Organik,Produk perawatan kulit yang terbuat dari bahan organik.,445000.0,10,500
+9d73a948-298b-4896-8d43-2ad828cbd836,2024-06-12 03:21:20.551,2024-06-12 03:21:20.551,,Lengan Laptop Denim Daur Ulang,Perlindungan laptop yang unik dan ramah lingkungan yang terbuat dari denim daur ulang.,250000.0,40,500
+a10882e9-ef38-4796-bc25-f56ca2374fed,2024-06-12 03:20:26.431,2024-06-12 03:20:26.431,,Cat Non-Toksik,Cat yang terbuat dari bahan alami dan tidak beracun.,80000.0,18,500
+aad3789d-706f-417a-ad86-2d8762d9ce3a,2024-06-12 03:21:27.318,2024-06-12 03:21:27.318,,Lilin Kedelai,Lilin yang bersih terbakar dan berkelanjutan yang terbuat dari lilin kedelai.,150000.0,28,500
+b3b4ae7a-ed2e-4163-bf71-1a00b089c8a3,2024-06-12 03:20:06.157,2024-06-12 03:20:06.157,,Buku Catatan Ramah Lingkungan,Buku catatan yang terbuat dari kertas daur ulang dan tinta ramah lingkungan.,40000.0,8,500
+b677eb44-63be-4ffb-8741-8d155b912d21,2024-06-12 03:21:47.621,2024-06-12 03:21:47.621,,Kepala Shower Hemat Air,Kurangi konsumsi air dengan kepala shower yang efisien ini.,400000.0,45,500
+ba8150f4-103a-438a-8d14-90ad8dc46a30,2024-06-12 03:21:18.297,2024-06-12 03:21:18.297,,Mesin Cuci Hemat Air,Mesin cuci yang hemat energi dan menghemat air.,3800000.0,70,500
+bc601a3e-513f-4ba5-b1ac-171d27489b90,2024-06-12 03:20:21.927,2024-06-12 03:20:21.927,,Laci Daur Ulang,Laci yang terbuat dari bahan daur ulang.,900000.0,30,500
+bddb97ac-1212-440a-ae73-00c89a1621b2,2024-06-12 03:21:29.572,2024-06-12 03:21:29.572,,Wadah Persiapan Makanan Kaca,Wadah penyimpanan makanan yang tahan lama dan dapat digunakan kembali.,300000.0,45,500
+cc8d605c-db48-40ec-b62c-826a6aa5f9a2,2024-06-12 03:20:10.661,2024-06-12 03:20:10.661,,Pengisi Daya Tenaga Surya,Pengisi daya portabel bertenaga surya untuk perangkat Anda.,100000.0,15,500
+de45d430-da60-4701-a51a-ffda02ba69c5,2024-06-12 03:20:30.937,2024-06-12 03:20:30.937,,Tas Belanja yang Dapat Digunakan Kembali,Tas belanja yang kuat dan tahan lama yang terbuat dari bahan daur ulang.,24000.0,7,500
+dfddfce8-553a-45da-b62a-80d3bc6f96ac,2024-06-12 03:21:09.257,2024-06-12 03:21:09.257,,Teh Herbal Organik,Teh herbal yang terbuat dari bahan organik dan perdagangan adil.,22000.0,8,500
+e3f27cb4-dcda-4114-b1aa-d1afd1e65ab3,2024-06-12 03:21:07.004,2024-06-12 03:21:07.004,,Mainan Anak Non-Toksik,Mainan yang terbuat dari bahan yang tidak beracun dan aman.,45000.0,15,500
+e5da3310-6ec6-4b43-81c2-a6eb5a0538c8,2024-06-12 03:20:24.178,2024-06-12 03:20:24.178,,Sepatu dengan Jejak Karbon Rendah,Sepatu dengan jejak karbon rendah.,750000.0,25,500
+f0f542fb-4810-458a-b679-8f4ab4e08493,2024-06-12 03:20:37.694,2024-06-12 03:20:37.694,,Batang Cokelat Perdagangan Adil,Batang cokelat yang terbuat dari kakao perdagangan adil.,25000.0,15,500
+f5dac7fe-afb6-4eff-9203-68f6994be2db,2024-06-12 03:20:44.453,2024-06-12 03:20:44.453,,Pembungkus Makanan yang Dapat Digunakan Kembali,Pembungkus yang terbuat dari lilin lebah dan katun organik.,15000.0,6,500
+f5e9bae2-1e04-4e2f-8ed5-319849ba8b39,2024-06-12 03:20:17.420,2024-06-12 03:20:17.420,,Piring Kompos,Piring yang terbuat dari bahan kompos.,17000.0,8,500
+fae8d2c5-8374-41e3-b2dc-f38ca67f1723,2024-06-12 03:20:39.948,2024-06-12 03:20:39.948,,Sarung Ponsel Biodegradable,Sarung ponsel yang sepenuhnya dapat terurai.,65000.0,9,500
